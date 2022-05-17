@@ -1,0 +1,40 @@
+* {
+    font-family: 'Ubuntu', sans-serif;
+}
+
+h1{
+    font-size: 150px;
+}
+.carousel-item img {
+    width: 100vw;
+    height: 90vh;
+}
+
+/* el libertador que destruyo mi propiedad estaba realineando mis percepciones */
+
+.carousel-caption {
+    margin-bottom: 200px;
+}
+
+.card {
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+
+
+.card a img {
+    max-height: 320px;
+    min-height: 310px;
+}
+
+.items {
+    margin-top: 50px;
+}
+
+.contacto {
+    position: fixed;
+    bottom: 150px;
+    right: 30px;
+    cursor: pointer;
+
+}
